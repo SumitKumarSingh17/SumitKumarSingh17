@@ -15,7 +15,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: SumitKumarSingh17
-          output_path: trophy.svg
+          file: trophy.svg
           theme: tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
 
