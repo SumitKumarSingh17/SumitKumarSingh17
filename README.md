@@ -56,12 +56,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SumitKumarSingh17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarSingh17&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SumitKumarSingh17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SumitKumarSingh17&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitKumarSingh17&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SumitKumarSingh17&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -84,10 +84,10 @@
 <div align="center">
 
 <a href="https://github.com/SumitKumarSingh17/Project-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarSingh17&repo=Project-AI&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SumitKumarSingh17&repo=Project-AI&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/SumitKumarSingh17/DSA-Series">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarSingh17&repo=DSA-Series&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SumitKumarSingh17&repo=DSA-Series&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -101,17 +101,24 @@
 <a href="https://www.linkedin.com/in/sumit-kumar-singh-9b87503a2" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/SumitKumarSingh17/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/profile/sumitkumar17" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/sumitkrsaazn" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
 <a href="mailto:sumitkrsingh885@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Coding Profiles**
+
+<br/>
+
+<a href="https://leetcode.com/u/SumitKumarSingh17/" target="_blank">
+  <img height="50" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/sumitkumar17" target="_blank">
+  <img height="50" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/sumitkrsaazn" target="_blank">
+  <img height="50" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
