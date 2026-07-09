@@ -13,6 +13,7 @@
 
 ### 🚀 About Me
 
+- 🎓 **B.Tech in CSE** at Maharana Pratap Engineering College, Kanpur
 - 🎯 **DSA Enthusiast** — sharpening problem solving with C++, daily grinding on LeetCode, HackerRank & GeeksforGeeks
 - 🤖 Currently learning **AI / Machine Learning**
 - 🌐 Also exploring **Full Stack Development (FSD)**
@@ -20,6 +21,7 @@
 - 💬 Ask me about **DSA, C++, Python, and ML basics**
 - 📫 Reach me at **sumitkrsingh885@gmail.com**
 - ⚡ Fun fact: I believe consistency beats intensity
+
 
 ---
 
