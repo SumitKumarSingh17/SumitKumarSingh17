@@ -71,6 +71,25 @@
 
 ---
 
+### 📈 Daily Coding Activity
+
+<div align="center">
+
+**LeetCode Heatmap (past 52 weeks)**
+
+<img src="https://leetcard.jacoblin.cool/SumitKumarSingh17?ext=heatmap&theme=dark" />
+
+<br/><br/>
+
+**GeeksforGeeks Stats**
+
+<a href="https://www.geeksforgeeks.org/profile/sumitkrsaazn">
+  <img src="https://gfgstatscard.vercel.app/sumitkrsaazn" alt="GFG Stats" />
+</a>
+
+</div>
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
