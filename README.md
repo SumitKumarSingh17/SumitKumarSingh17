@@ -104,8 +104,8 @@
 
 <div align="center">
 
-<a href="https://holopin.io/@SumitKumarSingh17">
-  <img src="https://holopin.me/SumitKumarSingh17" alt="Holopin badges" />
+<a href="https://holopin.io/@sumitkumarsingh17">
+  <img src="https://holopin.io/api/user/board?user=sumitkumarsingh17" alt="Holopin badges" />
 </a>
 
 </div>
