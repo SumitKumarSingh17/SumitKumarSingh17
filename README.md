@@ -100,6 +100,18 @@
 
 ---
 
+### 🏅 Holopin Badges
+
+<div align="center">
+
+<a href="https://holopin.io/@SumitKumarSingh17">
+  <img src="https://holopin.me/SumitKumarSingh17" alt="Holopin badges" />
+</a>
+
+</div>
+
+---
+
 ### 📌 Featured Project
 
 <div align="center">
